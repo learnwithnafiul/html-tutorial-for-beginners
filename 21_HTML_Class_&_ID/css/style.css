@@ -1,0 +1,19 @@
+div {
+    background-color: green;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.two{
+    background-color: olive;
+    color: white;
+}
+
+#four{
+    background-color: chocolate;
+    color: black;
+}
+
+#five{
+    background-color: chocolate;
+}
